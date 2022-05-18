@@ -8,7 +8,7 @@
         /// <summary>
         /// The Database instance.
         /// </summary>
-        public DatabaseManager Database = new("projectx", "lfOnBgIdsIdCjp8p");
+        public DatabaseManager Database = new("", "");
 
         private static Singleton _instance;
 
